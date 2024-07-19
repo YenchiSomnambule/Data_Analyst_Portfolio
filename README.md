@@ -11,3 +11,5 @@ This repository is used to demonstrate data analytics approaches for problems so
 
   - **NSE Historical Stock Price Analysis**<br />
 *Data Analysis:* **[HERE](https://github.com/YenchiSomnambule/Data_Analyst_Portfolio/blob/main/nse_stock_historical_price_data_analysis.ipynb)**<br />
+
+![NSE Stock Price](Visuals/NSE_stock_price.png)
