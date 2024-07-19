@@ -13,3 +13,10 @@ This repository is used to demonstrate data analytics approaches for problems so
 *Data Analysis:* **[HERE](https://github.com/YenchiSomnambule/Data_Analyst_Portfolio/blob/main/nse_stock_historical_price_data_analysis.ipynb)**<br />
 
 ![NSE Stock Price](Visuals/NSE_stock_price.png)
+
+
+- [x] **SQL:** 
+  - **Cereal Crop Yield Analysis**<br />
+*Flowchart:* **[HERE](https://github.com/YenchiSomnambule/Data_Analyst_Portfolio/blob/main/CerealCrop_Flowchart.pdf)**<br />
+*Cereal Crop ETL Processing:* **[HERE](https://github.com/YenchiSomnambule/Data_Analyst_Portfolio/blob/main/CerealCropYieldData.py)**<br >
+                                                                                                                                       
